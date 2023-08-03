@@ -19,5 +19,3 @@ Deliverables:
 3. Network Diagram: A visual representation of the network topology and device connections.
 4. Security Policy: A document outlining the security policies, access control rules, and firewall configurations to protect the network from cyber threats.
 5. Remote Access Setup Guide: A step-by-step guide on how to configure and use the secure remote access solution for employees.
-
-Note: As with any network implementation, always perform thorough testing in a controlled environment before deploying the changes in the production network. This will help identify and address any potential issues proactively.
